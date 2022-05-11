@@ -22,14 +22,6 @@
   - [13](../5-browser-extension/2-forms-browsers-local-storage/README.md)
   - [14](../5-browser-extension/3-background-tasks-and-performance/README.md)
 
-- Space Game
-  - [15](../6-space-game/1-introduction/README.md)
-  - [16](../6-space-game/2-drawing-to-canvas/README.md)
-  - [17](../6-space-game/3-moving-elements-around/README.md)
-  - [18](../6-space-game/4-collision-detection/README.md)
-  - [19](../6-space-game/5-keeping-score/README.md)
-  - [20](../6-space-game/6-end-condition/README.md)
-
 - Bank Project
   - [21](../7-bank-project/1-template-route/README.md)
   - [22](../7-bank-project/2-forms/README.md)
